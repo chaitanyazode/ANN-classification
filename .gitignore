@@ -5,8 +5,6 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .env
-*.h5
-*.hdf5
 *.keras
 =======
 # Byte-compiled / optimized / DLL files
