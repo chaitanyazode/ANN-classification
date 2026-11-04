@@ -1,1 +1,1 @@
-ANN Classification project
+ANN Classification implementation
