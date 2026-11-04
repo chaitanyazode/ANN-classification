@@ -1,1 +1,1 @@
-ANN Classification implementation
+ANN Classification
