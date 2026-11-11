@@ -1,1 +1,1 @@
-ANN Class
+ANN Classification
